@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proxzr&label=Profile%20views&color=0e75b6&style=flat" alt="proxzr" /> </p>
 
-- 🔭 I’m currently working on [Libft](https://github.com/Geoffrey42/libft/blob/master/libft.pdf)
+- 🔭 I’m currently working on [Libft](https://github.com/Geoffrey42/libft/blob/master/libft.pdf) (A project where we have to recreate [libc](https://man.archlinux.org/man/libc.7.fr) ourselves)
 
 - 🌱 I’m currently learning **C & Python, web pentesting, AD, reverse engineering, Forensic and OSINT <3 (cybersecurity in general).**
 
